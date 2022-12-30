@@ -1,0 +1,24 @@
+.theme__button {
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 4px;
+    background-color: #c45c40;;
+    border: none;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.6);
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 16px;
+    margin: 10px;
+    padding: 10px;
+    min-width: 200px;
+    min-height: 50px;
+  }
+  
+  .theme__button:hover {
+    background-color: #344969;
+  }
+  
+  .theme__button:active {
+    background-color: #1E2939;
+    transform: translateY(4px);
+  }

@@ -1,0 +1,35 @@
+
+.navigation {
+    position: sticky;
+    background:  #e0e0e0;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.6);
+  }
+  
+  .navigation__list {
+    display: flex;
+    font-style: italic;
+    font-size: 18px;
+  }
+  
+  .navigation__listItem {
+    margin: auto;
+    list-style-type: none;
+    padding: 10px 15px;
+  }
+  
+  .navigation__link {
+    text-decoration: none;
+    color:#c45c40;
+  }
+  
+  .navigation__link:focus {
+    outline: 2px solid currentColor;
+   }
+  
+   .navigation__link:hover {
+    color:#344969;
+   }
+  
+   .navigation__link:active {
+    background:#c45c40;
+   }

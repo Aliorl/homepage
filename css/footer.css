@@ -1,0 +1,38 @@
+.footer {
+    display: flex;
+    background: #1E2939;
+    color: #eee;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.6);
+    justify-content: center;
+  }
+  
+  .footer__container {
+    padding: 20px;
+  }
+  
+  .footer__header {
+    margin: 10px 0;
+    color: #c45c40;
+    padding-left: 25px;
+    font-size: 31px;
+    font-weight: normal;
+  }
+  
+  .footer__mailLink {
+    color:#b2b1b1;
+    text-decoration: none;
+    font-style: italic;
+  }
+  
+  .footer__mailLink:focus {
+    color:#c45c40;
+   }
+  
+   .footer__mailLink:hover {
+    color:#4b6a99;
+   }
+  
+   .footer__mailLink:active {
+    outline: 2px solid currentColor
+   }
+  

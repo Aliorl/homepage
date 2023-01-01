@@ -2,7 +2,7 @@
 
 ## Demo:
 
-https://github.com/Alor83/homepage
+https://aliorl/github.io/homepage/
 
 ## Description:
 

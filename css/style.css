@@ -14,10 +14,6 @@ box-sizing: border-box;
   margin: auto;
 }
 
-.body--dark {
-  background: #1E2939;
-}
-
 .container {
   width: 100%;
   margin: auto;

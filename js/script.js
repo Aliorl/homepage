@@ -1,10 +1,24 @@
+{
+    const welcome = () => {
+        console.log("Witam serdecznie wszystkich, któr zy tutaj zaglądają!");
+    }
 
-let button = document.querySelector(".theme__button");
-let body = document.querySelector(".body");
-let themeName = document.querySelector(".theme__name");
+    const toggleBackground = () => {
+        const body = document.querySelector(".body");
+        const themeName = document.querySelector(".theme__name");
 
-button.addEventListener("click", () => {
-    body.classList.toggle("body--dark");
+        body.classList.toggle("section--dark");
+        themeName.innerText = body.classList.contains("section--dark") ? "jasny" : "ciemny";
+    };
 
-    themeName.innerText = body.classList.contains("body--dark") ? "jasny" : "ciemny";
-});
+
+    const init = () => {
+        const changeBackgroundButton = document.querySelector(".theme__button");
+        changeBackgroundButton.addEventListener("click", toggleBackground);
+
+        welcome();
+    };
+
+    init();
+
+}

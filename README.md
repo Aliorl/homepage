@@ -2,7 +2,7 @@
 
 ## Demo:
 
-You can visit my homepage here: https://aliorl/github.io/homepage/
+Welcome on my homepage. You can visit it here: https://aliorl/github.io/homepage/
 
 ## Page preview:
 

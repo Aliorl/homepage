@@ -1,5 +1,7 @@
 # Alicja Orlik - my homepage
 
+!(Alicja Orlik) [https://github.com/Aliorl/homepage/blob/main/images/Profilowe.jpg?raw=true]
+
 ## Demo:
 
 https://aliorl/github.io/homepage/

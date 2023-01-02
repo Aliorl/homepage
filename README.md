@@ -6,7 +6,7 @@ Welcome on my homepage. You can visit it here: https://aliorl/github.io/homepage
 
 ## Page preview:
 
-![website gif](../images/Animation.gif)
+![website gif]([../images/Animation.gif](https://media.giphy.com/media/9mmG9SaLwCuJw4jbmE/giphy.gif))
 
 ## Description:
 

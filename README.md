@@ -18,5 +18,4 @@ Website created as part of self-study. The site uses Javascript to change the ba
 - CSS
 - Javascript (ES6 + Features)
 - BEM convention
-- Normalize.css
 - Open Graph Protocol
